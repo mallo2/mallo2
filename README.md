@@ -67,7 +67,7 @@ A configuration tool for Dn6Motion simulators controlled via StreamDeck.
 
 ---
 
-#### 🔸 [CoolLedX RIS Timing](https://github.com/mallo2/CoolLedX-ris-timing)
+#### 🔸 [RacePanelX](https://github.com/mallo2/RacePanelX)
 
 A motorsport timing system that displays race data on LED panels.
 
