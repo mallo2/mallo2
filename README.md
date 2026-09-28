@@ -46,6 +46,14 @@ A digital version of an educational board game developed for the EuroSpaceCenter
 
 ### 🧪 Personal Projects
 
+#### 🔸 ExtractScholarCalendar *(Private)*
+
+A script that automatically retrieves, filters, updates, and notifies me about my academic calendar, then syncs it with iCloud.
+
+**Purpose:**
+My university scheduling platform is not personalized and does not notify students when their timetable changes.
+This project solves that issue by automatically filtering the relevant courses, detecting schedule changes, and synchronizing an up-to-date personalized calendar.
+
 #### 🔸 SmartPit *(Private)*
 
 An AI-powered voice race engineer for simracers, using telemetry data from iRacing.
